@@ -1,0 +1,4 @@
+#Sun Dec 26 00:30:44 GMT 2021
+base.0=/home/asamoah/Documents/PROJECTS/Real_Estate_App/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
